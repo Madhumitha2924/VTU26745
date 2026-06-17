@@ -1,0 +1,32 @@
+
+====================
+Depot ID: 1
+Mechanic Hours Available: 60
+Total Duration Used: 60
+Maximum Impact: 109
+Tasks Selected: 16
+====================
+
+====================
+Depot ID: 2
+Mechanic Hours Available: 135
+Total Duration Used: 134
+Maximum Impact: 160
+Tasks Selected: 30
+====================
+
+====================
+Depot ID: 3
+Mechanic Hours Available: 188
+Total Duration Used: 159
+Maximum Impact: 165
+Tasks Selected: 34
+====================
+
+====================
+Depot ID: 4
+Mechanic Hours Available: 97
+Total Duration Used: 97
+Maximum Impact: 145
+Tasks Selected: 23
+====================
